@@ -1,0 +1,24 @@
+Captured from above
+laying , Captured from above
+sitting , Captured from above
+standing , Captured from above
+laying , Captured from below
+sitting , Captured from below
+standing , Captured from below
+Captured from below
+laying , Captured from dutch angle
+sitting , Captured from dutch angle
+standing , Captured from dutch angle
+Captured from dutch angle
+laying , Captured from tiltted angle
+sitting , Captured from tiltted angle
+standing , Captured from tiltted angle
+Captured from tiltted angle
+laying , Captured from front
+sitting , Captured from front
+standing , Captured from front
+Captured from front
+laying , Captured from off angle
+sitting , Captured from off angle
+standing , Captured from off angle
+Captured from off angle
